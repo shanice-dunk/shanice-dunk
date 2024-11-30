@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanice-dunk
 - 👀 I’m interested in switching careers into tech, particularly in software engineering.
 - 🌱 I have completed beginner courses on HTMl, CSS, JavaScript, Python and SQL. I have been learning mainly through Codeacademy and Code First Girls.
-- 👩🏽‍💻 I and recently completed a 6-month bootcamp with Coding Black Females and UBS learning Java, UI development and algorithmic trading.
+- 👩🏽‍💻 I recently completed a 6-month bootcamp with Coding Black Females and UBS learning Java, UI development and algorithmic trading.
 - 💞️ I’m looking to collaborate on building my portfolio to help me switch careers into tech.
 - 📫 How to reach me shanice.dunk@icloud.com
 - 😄 Pronouns: she/her
